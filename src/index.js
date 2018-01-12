@@ -6,7 +6,7 @@ import GuidWrapper, {
   ContextGuidWrapper,
   withContextGuid,
   injectGuid
-} from './GuidWrapper'
+} from '../lib/GuidWrapper'
 
 const Row = styled(BaseRow)`
   margin-bottom: 10px;
